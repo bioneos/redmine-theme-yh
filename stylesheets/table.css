@@ -83,3 +83,9 @@ table.list td.tick span {
   background-position: 0 50% !important;
   padding-left: 24px !important;
 }
+
+/* BN fixes */
+div#roadmap table.list td.subject
+{
+  width: initial ;
+}

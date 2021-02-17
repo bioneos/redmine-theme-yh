@@ -17,19 +17,22 @@
 }
 
 #top-menu {
-  background: rgba(0, 0, 0, 0.03);
+  /*background: rgba(0, 0, 0, 0.03);*/
+  background: #2f3a3f;
   padding: .5rem 1rem;
   height: auto;
   overflow: hidden;
 }
 
 #top-menu #loggedas {
-  color: #8a8a8a;
+  color: #e4d6d6;
+  /*color: #8a8a8a;*/
   float:left;
 }
 
 #top-menu a {
-  color: #8a8a8a;
+  color: #e4d6d6 ;
+  /*color: #8a8a8a;*/
 }
 
 #top-menu a.logout {
@@ -43,7 +46,8 @@
 #header {
   min-height: auto;
   color: inherit;
-  background-color: #fff;
+  /*background-color: #fff;*/
+  background-color: #f1f1f1 ;
   padding: 1rem;
   position: relative;
   box-shadow: 0 2px 2px -1px rgba(0,0,0,0.2);
