@@ -1,7 +1,7 @@
 # Bio::Neos - yh redmine theme #
 Modern Redmine Theme.
 
-This ir our Redmine theme, based off the Yh Redmine theme (https://github.com/yenihayat/redmine-theme-yh). This is mostly the same theme with a more BN-friendly theme and color. The layout remains the same as the screenshots below.
+This is our Redmine theme, based off the Yh Redmine theme (https://github.com/yenihayat/redmine-theme-yh). It is mostly the same theme with a more BN-friendly theme and color. The layout remains the same as the screenshots below.
 
 ## Screenshots
 ![](https://raw.githubusercontent.com/yenihayat/redmine-theme-yh/master/screenshots/activity2.png)
