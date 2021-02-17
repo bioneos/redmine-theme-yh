@@ -236,7 +236,6 @@ body, p {
   display: block;
   width: 100% !important;
   max-width: 100% !important;
-  height: 31px !important;
   padding: .375rem .75rem !important;
   line-height: 1.5;
   color: #495057 !important;
@@ -247,10 +246,9 @@ body, p {
   transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }
 
-textarea {
-  height: auto !important;
+.form-control, input[type=text], input[type=date], input[type=file], input[type=password] {
+  height: 31px !important ;
 }
-
 
 .contextual {
   margin: 0;
@@ -591,10 +589,6 @@ fieldset#options td.field {
 
 .tabular.settings label {
   width: 280px;
-}
-
-.tabular textarea {
-  height: auto !important;
 }
 
 input#time_entry_comments {
